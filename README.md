@@ -1,0 +1,2 @@
+# ERC20-Basiccoin
+MINIMUM VIABLE TOKEN
